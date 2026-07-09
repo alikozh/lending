@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="15%" r="60%">
+      <stop offset="0%" stop-color="#E97F4A" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#E97F4A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#221610"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <text x="80" y="120" font-family="Unbounded, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="1" fill="#F5E9DD">RECAP<tspan fill="#E97F4A">Q</tspan></text>
+  <text x="80" y="200" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#E97F4A">РЕПЕТИТОР · ЕНТ · SAT MATH · МАТЕМАТИКА · ФИЗИКА</text>
+  <text x="80" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="500" fill="#F5E9DD">Математика и физика —</text>
+  <text x="80" y="385" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="500" fill="#F5E9DD"><tspan fill="#E97F4A" font-style="italic">спокойно</tspan>, по шагам, до результата.</text>
+  <g font-family="Georgia, serif" fill="#E97F4A" font-size="40">
+    <text x="80" y="510">130+</text>
+    <text x="360" y="510">780/800</text>
+    <text x="720" y="510">60+</text>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#C9A98E" font-size="18" font-weight="600">
+    <text x="80" y="545">балл на ЕНТ</text>
+    <text x="360" y="545">мой SAT Math</text>
+    <text x="720" y="545">учеников · 5 лет</text>
+  </g>
+  <text x="80" y="600" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#F5E9DD">Telegram @recapq  ·  +7 707 570 79 93  ·  alimath.site</text>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alimath.site/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://alimath.site/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://alimath.site/kz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alimath.site/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alimath.site/"/>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://alimath.site/kz/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://alimath.site/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://alimath.site/kz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alimath.site/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alimath.site/"/>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://alimath.site/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://alimath.site/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://alimath.site/kz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alimath.site/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alimath.site/"/>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>

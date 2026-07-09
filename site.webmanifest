@@ -1,0 +1,15 @@
+{
+  "name": "RECAPQ — репетитор по математике и физике",
+  "short_name": "RECAPQ",
+  "description": "Подготовка к ЕНТ и SAT Math онлайн. Математика и физика по шагам.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#221610",
+  "theme_color": "#221610",
+  "lang": "ru",
+  "icons": [
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
